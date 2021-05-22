@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+This is a repository I am using to demonstrate and learn about everything that React-Router has to offer
+
+Within this repository I am attempting to replicate the [https://www.twitch.tv/] functionality and layout. Twitch uses a complex routing system however I will be using react router to replicate this as effectively as possible.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
