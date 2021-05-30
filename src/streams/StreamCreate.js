@@ -13,6 +13,7 @@ class StreamCreate extends React.Component {
   }
 
   renderInput = ({ input, label, meta }) => {
+    // This variable is just a fancy way of seeing if meta.error and meta.touched exist to show the error and if not then an empty string...
     const className = `field ${meta.error && meta.touched ? "error" : ""}`;
     return (
       <div className={className}>
