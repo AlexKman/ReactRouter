@@ -4,14 +4,15 @@ Within this repository I am attempting to replicate the [https://www.twitch.tv/]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Some of the links and resources that I am using
 
-In the project directory, you can run:
+- https://redux.js.org/introduction/getting-started
+- https://reactjs.org/
+- https://github.com/reduxjs/redux-thunk
+- https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
+- https://devhints.io/redux
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.

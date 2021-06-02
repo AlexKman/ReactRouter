@@ -1,3 +1,59 @@
 {
-    "streams":[]
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 3
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 4
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 6
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 7
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 8
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 9
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 10
+    },
+    {
+      "title": "My stream",
+      "description": "Based af",
+      "id": 11
+    }
+  ]
 }
