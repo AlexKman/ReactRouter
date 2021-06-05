@@ -89,6 +89,12 @@
       "title": "1",
       "description": "1",
       "id": 18
+    },
+    {
+      "title": "New Stream test",
+      "description": "This was made by moi",
+      "userId": "102719249522799642058",
+      "id": 19
     }
   ]
 }
