@@ -11,6 +11,7 @@ Some of the links and resources that I am using
 - https://github.com/reduxjs/redux-thunk
 - https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
 - https://devhints.io/redux
+- https://lodash.com/
 
 ### `npm start`
 
