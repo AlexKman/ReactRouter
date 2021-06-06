@@ -8,12 +8,15 @@ Some of the links and resources that I am using
 
 - https://redux.js.org/introduction/getting-started
 - https://reactjs.org/
+- https://react-redux.js.org/using-react-redux/connect-mapstate
 - https://github.com/reduxjs/redux-thunk
 - https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
 - https://devhints.io/redux
 - https://lodash.com/
 
-### `npm start`
+### `To run this project`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Install the relevant node packages within the root file with npm install
+2. Run npm start within the root folder
+3. Run npm start within the /api folder
+4. View the project running on [http://localhost:3000/]
