@@ -10,7 +10,10 @@ const Modal = (props) => {
       }}
       className="ui dimmer modals visible active"
     >
-      <div className="ui standard modal visible active">
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="ui standard modal visible active"
+      >
         <div className="header">Delete stream</div>
         <div className="content">Are you sure dude?</div>
         <div className="actions">

@@ -13,6 +13,7 @@ Some of the links and resources that I am using
 - https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
 - https://devhints.io/redux
 - https://lodash.com/
+- https://developer.mozilla.org/en-US/
 
 ### `To run this project`
 
