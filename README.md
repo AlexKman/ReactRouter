@@ -17,7 +17,7 @@ Some of the links and resources that I am using
 
 ### `To run this project`
 
-1. Install the relevant node packages within the root file with npm install
-2. Run npm start within the root folder
+1. You must have node installed on your machine. Install the relevant node packages within the root file with npm install
+2. Run npm start within the root of the solution
 3. Run npm start within the /api folder
 4. View the project running on [http://localhost:3000/]
