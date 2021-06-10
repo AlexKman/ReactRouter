@@ -14,6 +14,7 @@ Some of the links and resources that I am using
 - https://devhints.io/redux
 - https://lodash.com/
 - https://developer.mozilla.org/en-US/
+- https://github.com/illuspas/Node-Media-Server
 
 ### `To run this project`
 
