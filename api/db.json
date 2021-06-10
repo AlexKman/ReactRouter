@@ -1,8 +1,9 @@
 {
   "streams": [
     {
-      "title": "MY NEW stream",
-      "description": "My stream is based tbh",
+      "title": " Test Stream",
+      "description": "Based",
+      "userId": "102719249522799642058",
       "id": 1
     }
   ]
