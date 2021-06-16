@@ -22,3 +22,7 @@ Some of the links and resources that I am using
 2. Run npm start within the root of the solution
 3. Run npm start within the /api folder
 4. View the project running on [http://localhost:3000/]
+
+This project is capable of running a stream through OBS (Open Broadcasting System) however this is not needed for the project to run. The details to run a stream through this project are detailed below.
+
+1. You must have [OBS](https://obsproject.com/) installed. Latest version is fine :)
